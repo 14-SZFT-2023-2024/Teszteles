@@ -1,0 +1,7 @@
+C:\Users\Munkacsi\Desktop\C# es js\feladattesteles\feladattesteles\bin\Debug\feladattesteles.exe.config
+C:\Users\Munkacsi\Desktop\C# es js\feladattesteles\feladattesteles\bin\Debug\feladattesteles.exe
+C:\Users\Munkacsi\Desktop\C# es js\feladattesteles\feladattesteles\bin\Debug\feladattesteles.pdb
+C:\Users\Munkacsi\Desktop\C# es js\feladattesteles\feladattesteles\obj\Debug\feladattesteles.csproj.AssemblyReference.cache
+C:\Users\Munkacsi\Desktop\C# es js\feladattesteles\feladattesteles\obj\Debug\feladattesteles.csproj.CoreCompileInputs.cache
+C:\Users\Munkacsi\Desktop\C# es js\feladattesteles\feladattesteles\obj\Debug\feladattesteles.exe
+C:\Users\Munkacsi\Desktop\C# es js\feladattesteles\feladattesteles\obj\Debug\feladattesteles.pdb
