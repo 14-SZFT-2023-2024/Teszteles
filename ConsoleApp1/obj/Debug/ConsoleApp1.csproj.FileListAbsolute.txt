@@ -1,0 +1,16 @@
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\bin\Debug\FluentAssertions.dll
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\bin\Debug\FluentAssertions.pdb
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\bin\Debug\FluentAssertions.xml
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\_Iskola\c#\2023.12.12\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
