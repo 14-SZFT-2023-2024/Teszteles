@@ -1,0 +1,14 @@
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\bin\Debug\net8.0\faszombele.exe
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\bin\Debug\net8.0\faszombele.deps.json
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\bin\Debug\net8.0\faszombele.runtimeconfig.json
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\bin\Debug\net8.0\faszombele.dll
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\bin\Debug\net8.0\faszombele.pdb
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\obj\Debug\net8.0\faszombele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\obj\Debug\net8.0\faszombele.AssemblyInfoInputs.cache
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\obj\Debug\net8.0\faszombele.AssemblyInfo.cs
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\obj\Debug\net8.0\faszombele.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\obj\Debug\net8.0\faszombele.dll
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\obj\Debug\net8.0\refint\faszombele.dll
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\obj\Debug\net8.0\faszombele.pdb
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\obj\Debug\net8.0\faszombele.genruntimeconfig.cache
+C:\Users\ASUS-11\source\repos\faszombele\faszombele\obj\Debug\net8.0\ref\faszombele.dll
